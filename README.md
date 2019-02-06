@@ -1,4 +1,4 @@
-# Awesome Single Page Application
+# Awesome Single Page Application, SPA
 Useful links, guides, resources for creating an awesome single page applications
 
 
